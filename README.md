@@ -1,2 +1,2 @@
 # DiceGame
-A simple game of dice
+A simple game of dice.
