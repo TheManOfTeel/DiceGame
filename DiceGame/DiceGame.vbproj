@@ -6,9 +6,9 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{C4B1D186-ACBC-4530-B2E5-832D751C02CF}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>lab4_danielteel.My.MyApplication</StartupObject>
-    <RootNamespace>lab4_danielteel</RootNamespace>
-    <AssemblyName>lab4_danielteel</AssemblyName>
+    <StartupObject>DiceGame.My.MyApplication</StartupObject>
+    <RootNamespace>DiceGame</RootNamespace>
+    <AssemblyName>DiceGame</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
@@ -21,7 +21,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>lab4_danielteel.xml</DocumentationFile>
+    <DocumentationFile>DiceGame.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -31,7 +31,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>lab4_danielteel.xml</DocumentationFile>
+    <DocumentationFile>DiceGame.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
